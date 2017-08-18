@@ -1,0 +1,238 @@
+C:\HVA\Periode3\GPA\Tentamen\Proeftentamen\SpaceInvaders\GameManagement\bin\Windows\Debug\GameManagement.exe
+C:\HVA\Periode3\GPA\Tentamen\Proeftentamen\SpaceInvaders\GameManagement\bin\Windows\Debug\GameManagement.pdb
+C:\HVA\Periode3\GPA\Tentamen\Proeftentamen\SpaceInvaders\GameManagement\bin\Windows\Debug\Lidgren.Network.dll
+C:\HVA\Periode3\GPA\Tentamen\Proeftentamen\SpaceInvaders\GameManagement\bin\Windows\Debug\MonoGame.Framework.dll
+C:\HVA\Periode3\GPA\Tentamen\Proeftentamen\SpaceInvaders\GameManagement\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\HVA\Periode3\GPA\Tentamen\Proeftentamen\SpaceInvaders\GameManagement\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\HVA\Periode3\GPA\Tentamen\Proeftentamen\SpaceInvaders\GameManagement\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\HVA\Periode3\GPA\Tentamen\Proeftentamen\SpaceInvaders\GameManagement\bin\Windows\Debug\SharpDX.dll
+C:\HVA\Periode3\GPA\Tentamen\Proeftentamen\SpaceInvaders\GameManagement\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\HVA\Periode3\GPA\Tentamen\Proeftentamen\SpaceInvaders\GameManagement\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\HVA\Periode3\GPA\Tentamen\Proeftentamen\SpaceInvaders\GameManagement\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\HVA\Periode3\GPA\Tentamen\Proeftentamen\SpaceInvaders\GameManagement\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\HVA\Periode3\GPA\Tentamen\Proeftentamen\SpaceInvaders\GameManagement\bin\Windows\Debug\SharpDX.XInput.dll
+C:\HVA\Periode3\GPA\Tentamen\Proeftentamen\SpaceInvaders\GameManagement\bin\Windows\Debug\Lidgren.Network.xml
+C:\HVA\Periode3\GPA\Tentamen\Proeftentamen\SpaceInvaders\GameManagement\bin\Windows\Debug\MonoGame.Framework.xml
+C:\HVA\Periode3\GPA\Tentamen\Proeftentamen\SpaceInvaders\GameManagement\bin\Windows\Debug\SharpDX.xml
+C:\HVA\Periode3\GPA\Tentamen\Proeftentamen\SpaceInvaders\GameManagement\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\HVA\Periode3\GPA\Tentamen\Proeftentamen\SpaceInvaders\GameManagement\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\HVA\Periode3\GPA\Tentamen\Proeftentamen\SpaceInvaders\GameManagement\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\HVA\Periode3\GPA\Tentamen\Proeftentamen\SpaceInvaders\GameManagement\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\HVA\Periode3\GPA\Tentamen\Proeftentamen\SpaceInvaders\GameManagement\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\HVA\Periode3\GPA\Tentamen\Proeftentamen\SpaceInvaders\GameManagement\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\HVA\Periode3\GPA\Tentamen\Proeftentamen\SpaceInvaders\GameManagement\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\HVA\Periode3\GPA\Tentamen\Proeftentamen\SpaceInvaders\GameManagement\bin\Windows\Debug\SharpDX.XInput.xml
+C:\HVA\Periode3\GPA\Tentamen\Proeftentamen\SpaceInvaders\GameManagement\obj\x86\Debug\GameManagement.exe
+C:\HVA\Periode3\GPA\Tentamen\Proeftentamen\SpaceInvaders\GameManagement\obj\x86\Debug\GameManagement.pdb
+C:\HVA\Periode4\SimPhy\Practicum\Opdracht1\Opdracht1_Biljards\GameManagement\obj\x86\Debug\GameManagement.exe
+C:\HVA\Periode4\SimPhy\Practicum\Opdracht1\Opdracht1_Biljards\GameManagement\obj\x86\Debug\GameManagement.pdb
+C:\HVA\Periode4\SimPhy\Practicum\Opdracht1\Opdracht1_Biljards\GameManagement\bin\Windows\Debug\GameManagement.exe
+C:\HVA\Periode4\SimPhy\Practicum\Opdracht1\Opdracht1_Biljards\GameManagement\bin\Windows\Debug\GameManagement.pdb
+C:\HVA\Periode4\SimPhy\Practicum\Opdracht1\Opdracht1_Biljards\GameManagement\bin\Windows\Debug\Lidgren.Network.dll
+C:\HVA\Periode4\SimPhy\Practicum\Opdracht1\Opdracht1_Biljards\GameManagement\bin\Windows\Debug\MonoGame.Framework.dll
+C:\HVA\Periode4\SimPhy\Practicum\Opdracht1\Opdracht1_Biljards\GameManagement\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\HVA\Periode4\SimPhy\Practicum\Opdracht1\Opdracht1_Biljards\GameManagement\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\HVA\Periode4\SimPhy\Practicum\Opdracht1\Opdracht1_Biljards\GameManagement\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\HVA\Periode4\SimPhy\Practicum\Opdracht1\Opdracht1_Biljards\GameManagement\bin\Windows\Debug\SharpDX.dll
+C:\HVA\Periode4\SimPhy\Practicum\Opdracht1\Opdracht1_Biljards\GameManagement\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\HVA\Periode4\SimPhy\Practicum\Opdracht1\Opdracht1_Biljards\GameManagement\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\HVA\Periode4\SimPhy\Practicum\Opdracht1\Opdracht1_Biljards\GameManagement\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\HVA\Periode4\SimPhy\Practicum\Opdracht1\Opdracht1_Biljards\GameManagement\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\HVA\Periode4\SimPhy\Practicum\Opdracht1\Opdracht1_Biljards\GameManagement\bin\Windows\Debug\SharpDX.XInput.dll
+C:\HVA\Periode4\SimPhy\Practicum\Opdracht1\Opdracht1_Biljards\GameManagement\bin\Windows\Debug\Lidgren.Network.xml
+C:\HVA\Periode4\SimPhy\Practicum\Opdracht1\Opdracht1_Biljards\GameManagement\bin\Windows\Debug\MonoGame.Framework.xml
+C:\HVA\Periode4\SimPhy\Practicum\Opdracht1\Opdracht1_Biljards\GameManagement\bin\Windows\Debug\SharpDX.xml
+C:\HVA\Periode4\SimPhy\Practicum\Opdracht1\Opdracht1_Biljards\GameManagement\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\HVA\Periode4\SimPhy\Practicum\Opdracht1\Opdracht1_Biljards\GameManagement\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\HVA\Periode4\SimPhy\Practicum\Opdracht1\Opdracht1_Biljards\GameManagement\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\HVA\Periode4\SimPhy\Practicum\Opdracht1\Opdracht1_Biljards\GameManagement\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\HVA\Periode4\SimPhy\Practicum\Opdracht1\Opdracht1_Biljards\GameManagement\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\HVA\Periode4\SimPhy\Practicum\Opdracht1\Opdracht1_Biljards\GameManagement\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\HVA\Periode4\SimPhy\Practicum\Opdracht1\Opdracht1_Biljards\GameManagement\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\HVA\Periode4\SimPhy\Practicum\Opdracht1\Opdracht1_Biljards\GameManagement\bin\Windows\Debug\SharpDX.XInput.xml
+C:\HVA\Periode4\SimPhy\Practicum\Startprojecten studenten\Opdracht1_Bouncing\GameManagement\bin\Windows\Debug\GameManagement.exe
+C:\HVA\Periode4\SimPhy\Practicum\Startprojecten studenten\Opdracht1_Bouncing\GameManagement\bin\Windows\Debug\GameManagement.pdb
+C:\HVA\Periode4\SimPhy\Practicum\Startprojecten studenten\Opdracht1_Bouncing\GameManagement\bin\Windows\Debug\Lidgren.Network.dll
+C:\HVA\Periode4\SimPhy\Practicum\Startprojecten studenten\Opdracht1_Bouncing\GameManagement\bin\Windows\Debug\MonoGame.Framework.dll
+C:\HVA\Periode4\SimPhy\Practicum\Startprojecten studenten\Opdracht1_Bouncing\GameManagement\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\HVA\Periode4\SimPhy\Practicum\Startprojecten studenten\Opdracht1_Bouncing\GameManagement\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\HVA\Periode4\SimPhy\Practicum\Startprojecten studenten\Opdracht1_Bouncing\GameManagement\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\HVA\Periode4\SimPhy\Practicum\Startprojecten studenten\Opdracht1_Bouncing\GameManagement\bin\Windows\Debug\SharpDX.dll
+C:\HVA\Periode4\SimPhy\Practicum\Startprojecten studenten\Opdracht1_Bouncing\GameManagement\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\HVA\Periode4\SimPhy\Practicum\Startprojecten studenten\Opdracht1_Bouncing\GameManagement\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\HVA\Periode4\SimPhy\Practicum\Startprojecten studenten\Opdracht1_Bouncing\GameManagement\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\HVA\Periode4\SimPhy\Practicum\Startprojecten studenten\Opdracht1_Bouncing\GameManagement\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\HVA\Periode4\SimPhy\Practicum\Startprojecten studenten\Opdracht1_Bouncing\GameManagement\bin\Windows\Debug\SharpDX.XInput.dll
+C:\HVA\Periode4\SimPhy\Practicum\Startprojecten studenten\Opdracht1_Bouncing\GameManagement\bin\Windows\Debug\Lidgren.Network.xml
+C:\HVA\Periode4\SimPhy\Practicum\Startprojecten studenten\Opdracht1_Bouncing\GameManagement\bin\Windows\Debug\MonoGame.Framework.xml
+C:\HVA\Periode4\SimPhy\Practicum\Startprojecten studenten\Opdracht1_Bouncing\GameManagement\bin\Windows\Debug\SharpDX.xml
+C:\HVA\Periode4\SimPhy\Practicum\Startprojecten studenten\Opdracht1_Bouncing\GameManagement\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\HVA\Periode4\SimPhy\Practicum\Startprojecten studenten\Opdracht1_Bouncing\GameManagement\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\HVA\Periode4\SimPhy\Practicum\Startprojecten studenten\Opdracht1_Bouncing\GameManagement\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\HVA\Periode4\SimPhy\Practicum\Startprojecten studenten\Opdracht1_Bouncing\GameManagement\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\HVA\Periode4\SimPhy\Practicum\Startprojecten studenten\Opdracht1_Bouncing\GameManagement\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\HVA\Periode4\SimPhy\Practicum\Startprojecten studenten\Opdracht1_Bouncing\GameManagement\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\HVA\Periode4\SimPhy\Practicum\Startprojecten studenten\Opdracht1_Bouncing\GameManagement\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\HVA\Periode4\SimPhy\Practicum\Startprojecten studenten\Opdracht1_Bouncing\GameManagement\bin\Windows\Debug\SharpDX.XInput.xml
+C:\HVA\Periode4\SimPhy\Practicum\Startprojecten studenten\Opdracht1_Bouncing\GameManagement\obj\x86\Debug\GameManagement.csprojResolveAssemblyReference.cache
+C:\HVA\Periode4\SimPhy\Practicum\Startprojecten studenten\Opdracht1_Bouncing\GameManagement\obj\x86\Debug\GameManagement.exe
+C:\HVA\Periode4\SimPhy\Practicum\Startprojecten studenten\Opdracht1_Bouncing\GameManagement\obj\x86\Debug\GameManagement.pdb
+C:\Users\DanielK\Programming\SimulationPyshics\Practicum2\Opdracht1_Bouncing_uitwerking\GameManagement\bin\Windows\Debug\GameManagement.exe
+C:\Users\DanielK\Programming\SimulationPyshics\Practicum2\Opdracht1_Bouncing_uitwerking\GameManagement\bin\Windows\Debug\GameManagement.pdb
+C:\Users\DanielK\Programming\SimulationPyshics\Practicum2\Opdracht1_Bouncing_uitwerking\GameManagement\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\DanielK\Programming\SimulationPyshics\Practicum2\Opdracht1_Bouncing_uitwerking\GameManagement\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\DanielK\Programming\SimulationPyshics\Practicum2\Opdracht1_Bouncing_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\DanielK\Programming\SimulationPyshics\Practicum2\Opdracht1_Bouncing_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\DanielK\Programming\SimulationPyshics\Practicum2\Opdracht1_Bouncing_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\DanielK\Programming\SimulationPyshics\Practicum2\Opdracht1_Bouncing_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.dll
+C:\Users\DanielK\Programming\SimulationPyshics\Practicum2\Opdracht1_Bouncing_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\DanielK\Programming\SimulationPyshics\Practicum2\Opdracht1_Bouncing_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\DanielK\Programming\SimulationPyshics\Practicum2\Opdracht1_Bouncing_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\DanielK\Programming\SimulationPyshics\Practicum2\Opdracht1_Bouncing_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\DanielK\Programming\SimulationPyshics\Practicum2\Opdracht1_Bouncing_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\DanielK\Programming\SimulationPyshics\Practicum2\Opdracht1_Bouncing_uitwerking\GameManagement\bin\Windows\Debug\Lidgren.Network.xml
+C:\Users\DanielK\Programming\SimulationPyshics\Practicum2\Opdracht1_Bouncing_uitwerking\GameManagement\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\DanielK\Programming\SimulationPyshics\Practicum2\Opdracht1_Bouncing_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.xml
+C:\Users\DanielK\Programming\SimulationPyshics\Practicum2\Opdracht1_Bouncing_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\DanielK\Programming\SimulationPyshics\Practicum2\Opdracht1_Bouncing_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\DanielK\Programming\SimulationPyshics\Practicum2\Opdracht1_Bouncing_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\DanielK\Programming\SimulationPyshics\Practicum2\Opdracht1_Bouncing_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\DanielK\Programming\SimulationPyshics\Practicum2\Opdracht1_Bouncing_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\DanielK\Programming\SimulationPyshics\Practicum2\Opdracht1_Bouncing_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\DanielK\Programming\SimulationPyshics\Practicum2\Opdracht1_Bouncing_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\DanielK\Programming\SimulationPyshics\Practicum2\Opdracht1_Bouncing_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\DanielK\Programming\SimulationPyshics\Practicum2\Opdracht1_Bouncing_uitwerking\GameManagement\obj\x86\Debug\GameManagement.exe
+C:\Users\DanielK\Programming\SimulationPyshics\Practicum2\Opdracht1_Bouncing_uitwerking\GameManagement\obj\x86\Debug\GameManagement.pdb
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht2_Movement_uitwerking\GameManagement\bin\Windows\Debug\GameManagement.exe
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht2_Movement_uitwerking\GameManagement\bin\Windows\Debug\GameManagement.pdb
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht2_Movement_uitwerking\GameManagement\bin\Windows\Debug\Lidgren.Network.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht2_Movement_uitwerking\GameManagement\bin\Windows\Debug\MonoGame.Framework.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht2_Movement_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht2_Movement_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht2_Movement_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht2_Movement_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht2_Movement_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht2_Movement_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht2_Movement_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht2_Movement_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht2_Movement_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.XInput.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht2_Movement_uitwerking\GameManagement\bin\Windows\Debug\Lidgren.Network.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht2_Movement_uitwerking\GameManagement\bin\Windows\Debug\MonoGame.Framework.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht2_Movement_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht2_Movement_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht2_Movement_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht2_Movement_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht2_Movement_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht2_Movement_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht2_Movement_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht2_Movement_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht2_Movement_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.XInput.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht2_Movement_uitwerking\GameManagement\obj\x86\Debug\GameManagement.csprojResolveAssemblyReference.cache
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht2_Movement_uitwerking\GameManagement\obj\x86\Debug\GameManagement.exe
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht2_Movement_uitwerking\GameManagement\obj\x86\Debug\GameManagement.pdb
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering\GameManagement\bin\Windows\Debug\GameManagement.exe
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering\GameManagement\bin\Windows\Debug\GameManagement.pdb
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering\GameManagement\bin\Windows\Debug\Lidgren.Network.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering\GameManagement\bin\Windows\Debug\MonoGame.Framework.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering\GameManagement\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering\GameManagement\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering\GameManagement\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering\GameManagement\bin\Windows\Debug\SharpDX.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering\GameManagement\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering\GameManagement\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering\GameManagement\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering\GameManagement\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering\GameManagement\bin\Windows\Debug\SharpDX.XInput.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering\GameManagement\bin\Windows\Debug\Lidgren.Network.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering\GameManagement\bin\Windows\Debug\MonoGame.Framework.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering\GameManagement\bin\Windows\Debug\SharpDX.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering\GameManagement\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering\GameManagement\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering\GameManagement\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering\GameManagement\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering\GameManagement\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering\GameManagement\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering\GameManagement\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering\GameManagement\bin\Windows\Debug\SharpDX.XInput.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering\GameManagement\obj\x86\Debug\GameManagement.csprojResolveAssemblyReference.cache
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering\GameManagement\obj\x86\Debug\GameManagement.exe
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering\GameManagement\obj\x86\Debug\GameManagement.pdb
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering_uitwerking\GameManagement\bin\Windows\Debug\GameManagement.exe
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering_uitwerking\GameManagement\bin\Windows\Debug\GameManagement.pdb
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering_uitwerking\GameManagement\bin\Windows\Debug\Lidgren.Network.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering_uitwerking\GameManagement\bin\Windows\Debug\MonoGame.Framework.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.XInput.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering_uitwerking\GameManagement\bin\Windows\Debug\Lidgren.Network.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering_uitwerking\GameManagement\bin\Windows\Debug\MonoGame.Framework.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering_uitwerking\GameManagement\bin\Windows\Debug\SharpDX.XInput.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering_uitwerking\GameManagement\obj\x86\Debug\GameManagement.exe
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht3_Steering_uitwerking\GameManagement\obj\x86\Debug\GameManagement.pdb
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht4_Collision\GameManagement\obj\x86\Debug\GameManagement.exe
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht4_Collision\GameManagement\obj\x86\Debug\GameManagement.pdb
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht4_Collision\GameManagement\bin\Windows\Debug\GameManagement.exe
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht4_Collision\GameManagement\bin\Windows\Debug\GameManagement.pdb
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht4_Collision\GameManagement\bin\Windows\Debug\Lidgren.Network.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht4_Collision\GameManagement\bin\Windows\Debug\MonoGame.Framework.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.XInput.dll
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht4_Collision\GameManagement\bin\Windows\Debug\Lidgren.Network.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht4_Collision\GameManagement\bin\Windows\Debug\MonoGame.Framework.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\HVA\Periode4\SimPhy\Practicum\Uitwerkingen opdrachten\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Marc\Dropbox\Hva\Simulation and Physics\Opdracht_4\Opdracht4_Collision\GameManagement\bin\Windows\Debug\GameManagement.exe
+C:\Users\Marc\Dropbox\Hva\Simulation and Physics\Opdracht_4\Opdracht4_Collision\GameManagement\bin\Windows\Debug\GameManagement.pdb
+C:\Users\Marc\Dropbox\Hva\Simulation and Physics\Opdracht_4\Opdracht4_Collision\GameManagement\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\Marc\Dropbox\Hva\Simulation and Physics\Opdracht_4\Opdracht4_Collision\GameManagement\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Marc\Dropbox\Hva\Simulation and Physics\Opdracht_4\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Marc\Dropbox\Hva\Simulation and Physics\Opdracht_4\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Marc\Dropbox\Hva\Simulation and Physics\Opdracht_4\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Marc\Dropbox\Hva\Simulation and Physics\Opdracht_4\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.dll
+C:\Users\Marc\Dropbox\Hva\Simulation and Physics\Opdracht_4\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Marc\Dropbox\Hva\Simulation and Physics\Opdracht_4\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Marc\Dropbox\Hva\Simulation and Physics\Opdracht_4\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Marc\Dropbox\Hva\Simulation and Physics\Opdracht_4\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Marc\Dropbox\Hva\Simulation and Physics\Opdracht_4\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Marc\Dropbox\Hva\Simulation and Physics\Opdracht_4\Opdracht4_Collision\GameManagement\bin\Windows\Debug\Lidgren.Network.xml
+C:\Users\Marc\Dropbox\Hva\Simulation and Physics\Opdracht_4\Opdracht4_Collision\GameManagement\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Marc\Dropbox\Hva\Simulation and Physics\Opdracht_4\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.xml
+C:\Users\Marc\Dropbox\Hva\Simulation and Physics\Opdracht_4\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Marc\Dropbox\Hva\Simulation and Physics\Opdracht_4\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Marc\Dropbox\Hva\Simulation and Physics\Opdracht_4\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Marc\Dropbox\Hva\Simulation and Physics\Opdracht_4\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Marc\Dropbox\Hva\Simulation and Physics\Opdracht_4\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Marc\Dropbox\Hva\Simulation and Physics\Opdracht_4\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Marc\Dropbox\Hva\Simulation and Physics\Opdracht_4\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Marc\Dropbox\Hva\Simulation and Physics\Opdracht_4\Opdracht4_Collision\GameManagement\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Marc\Dropbox\Hva\Simulation and Physics\Opdracht_4\Opdracht4_Collision\GameManagement\obj\x86\Debug\GameManagement.csprojResolveAssemblyReference.cache
+C:\Users\Marc\Dropbox\Hva\Simulation and Physics\Opdracht_4\Opdracht4_Collision\GameManagement\obj\x86\Debug\GameManagement.exe
+C:\Users\Marc\Dropbox\Hva\Simulation and Physics\Opdracht_4\Opdracht4_Collision\GameManagement\obj\x86\Debug\GameManagement.pdb
